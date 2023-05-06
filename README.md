@@ -81,6 +81,8 @@
 
 [Comics - Live Demo](https://comics-mvjq.onrender.com/)
 
+[Comics - Live Video](https://www.loom.com/share/55dd355f09a24faaba06c24d9f27f782)
+
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
 <!-- GETTING STARTED -->
