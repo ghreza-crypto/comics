@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h1><b>Anime Genre Browser</b></h1>
+  <h1><b>Comics Carton Website</b></h1>
 
 </div>
 
@@ -31,11 +31,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Anime Genre Browser <a name="about-project"></a>
+# 📖 Comics Carton App <a name="about-project"></a>
 
-**Anime Genre Browser** is an open-source platform for exploring anime by genre, powered by the Jikan API. It aims to make discovering new titles based on preferred genres easy and accessible for anime lovers.
-
-You can see a waklthrough of the project [here](https://www.loom.com/share/085e8e7bf2314d18a8a9696c7f8df590)
+**Comics Carton App** is an open-source platform for exploring anime by genre, powered by the Jikan API. It aims to make discovering new titles based on preferred genres easy and accessible for anime lovers.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -81,7 +79,7 @@ You can see a waklthrough of the project [here](https://www.loom.com/share/085e8
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Anime Genre Browser - Live Demo](https://anime-genre-browser.onrender.com)
+[Comics - Live Demo]()
 
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
@@ -100,8 +98,8 @@ To get a local copy up and running, follow these steps.
 Clone this repository to your desired folder:
 
 ```sh
-  git clone git@github.com:NicolasAndrehh/Anime-Genre-Browser.git
-  cd Anime-Genre-Browser 
+  git clone git@github.com:https://github.com/ghreza-crypto/comics.git
+  cd comics 
 ```
 
 ### Install
@@ -139,11 +137,10 @@ To run tests, run the following command:
 ## 👥 Authors <a name="authors"></a>
 
 
-👤 **Nicolas Olaya**
+👤 **Ghulam Reza Rajabi**
 
-- GitHub: [@NicolasAndrehh](https://github.com/NicolasAndrehh)
-- Twitter: [@nicolasolaya22](https://twitter.com/nicolasolaya22)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nicolas-olaya/)
+- GitHub: [@ghreza-crypto](github.com/ghreza-crypto)
+- LinkedIn: [LinkedIn](linkedin.com/in/ghulam-reza-rajabi)
 
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
